@@ -1,0 +1,19 @@
+Regex
+Networking
+- read data off internet (make your own browser)
+-- https://www.tutorialspoint.com/how-to-read-the-contents-of-a-webpage-into-a-string-in-java
+-- https://stackoverflow.com/questions/3402735/what-is-simplest-way-to-read-a-file-into-string
+-- scrape
+External Libs
+- JSoup
+-- https://www.tutorialspoint.com/how-to-read-the-contents-of-a-webpage-into-a-string-in-java
+- Apache Commons
+- Guava
+JDBC
+- https://github.com/profyoni/364_jdbc.git
+- jdbc driver
+- SQL Server database (AWS)
+
+// Files and Object Serialization
+// Streams
+// Graphics, Animations, 2 player game
